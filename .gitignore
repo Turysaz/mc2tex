@@ -1,0 +1,11 @@
+# compiled files / build
+*.pyc
+release/
+
+# test input and results
+out*
+testfiles/*
+!testfiles/testfile_[123456789]_orig.*
+
+# editor swap and similar
+*.swp
