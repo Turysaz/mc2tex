@@ -13,3 +13,6 @@ You can download a precompiled binary in the release section.
 
 You can create a build by running the make\_build.sh
 
+Dependencies
+- 7zip
+- python
