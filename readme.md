@@ -7,7 +7,7 @@ Text formatting will not be converted by now. Also, if the text areas contain fo
 
 ## Use precompiled binaries (All platforms)
 
-You can download a precompiled binary in the release section.
+You can download a precompiled binary in the [release section](https://github.com/Turysaz/mc2tex/releases).
 
 ## Build (Linux)
 
