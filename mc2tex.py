@@ -657,7 +657,7 @@ def convert(inpath, outpath):
 	outfile.write(tex_intro)
 
 	for l in outlines:
-		outfile.write(l.encode("utf8"))
+		outfile.write(l)
 	
 	outfile.write(tex_outro)
 
